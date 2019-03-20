@@ -1,0 +1,18 @@
+*.dropbox.attr
+.DS_Store
+
+# LaTeX ignores
+*.swp
+*.fdb_latexmk
+*.fls
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz*
+*.tdo
+*.toc
+*.nav
+*.snm
+*.fuse_hidden* 
