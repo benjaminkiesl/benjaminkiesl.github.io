@@ -668,6 +668,15 @@ button:focus,
     }
 
 /*-------------------
+ * Tools
+ *-------------------*/
+
+.tool {
+	line-height: 16pt;
+	margin-bottom: 14pt;
+}
+
+/*-------------------
  * Publications
  *-------------------*/
 
