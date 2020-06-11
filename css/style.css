@@ -40,7 +40,7 @@ body {
     font-family : 'Hind', sans-serif;
     font-size   : 15px;
     line-height : 1.8em;
-    color       : #989898;
+    color       : #7d7d7d;
     font-weight : 300;
     background  : #f8f8f8;
     }
@@ -666,6 +666,15 @@ button:focus,
 .content-item small {
     color : #888888;
     }
+
+/*-------------------
+ * Tools
+ *-------------------*/
+
+.tool {
+	line-height: 16pt;
+	margin-bottom: 14pt;
+}
 
 /*-------------------
  * Publications
